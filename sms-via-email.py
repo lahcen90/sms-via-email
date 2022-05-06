@@ -3,8 +3,8 @@
 import smtplib
 
 # Setup
-email = '' # your email
-pswd = '' # your email password
+email = 'bersaroaiyhaaiyha@gmail.com' # your email
+pswd = 'Guigou@00' # your email password
 host = 'smtp.gmail.com' # SMTP server of your email provider
 port = '587' # SMTP port
 
